@@ -1,5 +1,5 @@
 body {
-    background-image: url("bg.gif");
+    background-image: url("../gif/bg.gif");
     background-size:cover;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -29,7 +29,7 @@ body {
     left:100%;
     width:50px;
     height:50px;
-    background:url('poison.gif');
+    background:url('../gif/poison.gif');
     background-size: cover;
 }
 
@@ -38,6 +38,6 @@ body {
     left:100%;
     width:75px;
     height:75px;
-    background:url('bone.gif');
+    background:url('../gif/bone.gif');
     background-size: cover;
 }

@@ -1,5 +1,5 @@
 body {
-    background-image: url("eating lion.jpg");
+    background-image: url("../img/eating_lion.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     overflow: hidden;
